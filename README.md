@@ -1,4 +1,5 @@
-# ip-semester-3
+# Internet Programming 32516 - Semester-3
+
 This repository contains my university assignment 1 for the subject Internet Programming - 32516.
 
 Online Grocery Store with a Graphical User Interface
