@@ -13,9 +13,9 @@ Photoshop, HTML, CSS, PHP, MySQL and JavaScript
 
 <br>  </br>
 
-Online Grocery Store with a Graphical User Interface
+<h2>Online Grocery Store with a Graphical User Interface</h2>
 
-<b> Demo <b>
+<b> Demo </b>
 
 http://www-student.it.uts.edu.au/~abhchaud/assignment_1/
 
