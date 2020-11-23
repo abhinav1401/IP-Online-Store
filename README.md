@@ -1,10 +1,21 @@
-# Internet Programming 32516 - Semester-3
+# Internet Programming 32516 - Online Grocery Store
 
-This repository contains my university assignment 1 for the subject Internet Programming - 32516.
+<h3>Tools Used</h3>
+
+Photoshop, HTML, CSS, PHP, MySQL and JavaScript
+
+ <img align="left" alt="Photoshop" width="29px" src="https://cdn1.iconfinder.com/data/icons/designer-skills/128/photoshop-512.png"/>
+  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<br>  </br>
 
 Online Grocery Store with a Graphical User Interface
 
-Demo
+<b> Demo <b>
 
 http://www-student.it.uts.edu.au/~abhchaud/assignment_1/
 
@@ -17,6 +28,4 @@ Users can add chosen products to a virtual shopping cart and when they wish to c
 Once fom is filled out, the user can complete the order by clicking on the purchase button.
 Details of the order are then sent via email given on the form as a confirmation of the order.
 
-Tools Used
 
-PHP, MySQL and JavaScript
